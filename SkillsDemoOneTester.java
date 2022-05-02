@@ -5,6 +5,6 @@ public class SkillsDemoOneTester {
     
     @Test
     public static void squareTest(){
-        assertEquals("2 squared is 4", 5,SkillsDemoOne.square(2));
+        assertEquals("2 squared is 4", 4,SkillsDemoOne.square(2));
     }
 }
